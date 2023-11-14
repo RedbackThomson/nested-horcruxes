@@ -27,12 +27,10 @@ spec:
       version: ">=v0.38.0"
     - provider: xpkg.upbound.io/upbound/provider-aws-iam
       version: ">=v0.38.0"
+    - provider: xpkg.upbound.io/upbound/provider-aws-s3
+      version: ">=v0.38.0"
     - provider: xpkg.upbound.io/upbound/provider-upbound
       version: ">=v0.2.0"
-    - provider: xpkg.upbound.io/upbound/provider-azure-containerservice
-      version: ">=v0.36.0"
-    - provider: xpkg.upbound.io/upbound/provider-azure-network
-      version: ">=v0.36.0"
     - provider: xpkg.upbound.io/upbound/provider-gcp-cloudplatform
       version: ">=v0.36.0"
     - provider: xpkg.upbound.io/upbound/provider-gcp-compute
@@ -41,3 +39,10 @@ spec:
       version: ">=v0.36.0"
     - provider: xpkg.upbound.io/upbound/provider-gcp-servicenetworking
       version: ">=v0.36.0"
+    - provider: xpkg.upbound.io/crossplane-contrib/provider-argocd
+      version: ">=v0.2.0"
+    - provider: xpkg.upbound.io/upbound/provider-upbound
+      version: ">=v0.6.0"
+    - provider: xpkg.upbound.io/upbound/provider-nop
+      version: ">=v0.2.0"
+
