@@ -1,0 +1,7 @@
+{{- range (untilStep 0 (int .Values.replicaCount) 1) -}}
+apiVersion: horcrux.dev/v1alpha1
+kind: XHorcrux
+metadata:
+  name: {{ include "deploy-chart.fullname" . }}-{{ . }}
+spec: {}
+{{- end -}}
