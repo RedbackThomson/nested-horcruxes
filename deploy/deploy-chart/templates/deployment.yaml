@@ -1,8 +1,9 @@
 {{ $outer := .}}
-{{- range (untilStep 0 (int .Values.replicaCount) 1) -}}
+{{- range (until (int .Values.replicaCount)) -}}
 apiVersion: horcrux.dev/v1alpha1
 kind: XHorcrux
 metadata:
-  name: {{ include "deploy-chart.fullname" $outer }}-{{ . }}
+  name: {{ include "deploy-chart.fullname" $outer }}-{{.}}
 spec: {}
-{{- end -}}
+---
+{{ end }}
