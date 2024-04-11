@@ -1,0 +1,6 @@
+apiVersion: horcrux.dev/v1alpha1
+kind: XHorcrux
+metadata:
+  name: death
+  namespace: default
+spec: {}
