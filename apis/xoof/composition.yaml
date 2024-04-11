@@ -27,7 +27,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-0"
     - name: oof-002
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -46,7 +46,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-1"
     - name: oof-003
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -65,7 +65,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-2"
     - name: oof-004
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -84,7 +84,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-3"
     - name: oof-005
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -103,7 +103,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-4"
     - name: oof-006
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -122,7 +122,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-5"
     - name: oof-007
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -141,7 +141,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-6"
     - name: oof-008
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -160,7 +160,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-7"
     - name: oof-009
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -179,7 +179,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-8"
     - name: oof-010
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -198,7 +198,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-9"
     - name: oof-011
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -217,7 +217,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-10"
     - name: oof-012
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -236,7 +236,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-11"
     - name: oof-013
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -255,7 +255,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-12"
     - name: oof-014
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -274,7 +274,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-13"
     - name: oof-015
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -293,7 +293,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-14"
     - name: oof-016
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -312,7 +312,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-15"
     - name: oof-017
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -331,7 +331,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-16"
     - name: oof-018
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -350,7 +350,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-17"
     - name: oof-019
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -369,7 +369,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-18"
     - name: oof-020
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -388,7 +388,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-19"
     - name: oof-021
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -407,7 +407,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-20"
     - name: oof-022
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -426,7 +426,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-21"
     - name: oof-023
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -445,7 +445,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-22"
     - name: oof-024
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -464,7 +464,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-23"
     - name: oof-025
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -483,7 +483,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-24"
     - name: oof-026
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -502,7 +502,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-25"
     - name: oof-027
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -521,7 +521,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-26"
     - name: oof-028
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -540,7 +540,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-27"
     - name: oof-029
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -559,7 +559,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-28"
     - name: oof-030
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -578,7 +578,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-29"
     - name: oof-031
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -597,7 +597,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-30"
     - name: oof-032
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -616,7 +616,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-31"
     - name: oof-033
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -635,7 +635,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-32"
     - name: oof-034
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -654,7 +654,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-33"
     - name: oof-035
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -673,7 +673,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-34"
     - name: oof-036
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -692,7 +692,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-35"
     - name: oof-037
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -711,7 +711,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-36"
     - name: oof-038
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -730,7 +730,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-37"
     - name: oof-039
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -749,7 +749,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-38"
     - name: oof-040
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -768,7 +768,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-39"
     - name: oof-041
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -787,7 +787,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-40"
     - name: oof-042
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -806,7 +806,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-41"
     - name: oof-043
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -825,7 +825,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-42"
     - name: oof-044
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -844,7 +844,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-43"
     - name: oof-045
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -863,7 +863,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-44"
     - name: oof-046
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -882,7 +882,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-45"
     - name: oof-047
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -901,7 +901,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-46"
     - name: oof-048
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -920,7 +920,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-47"
     - name: oof-049
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -939,7 +939,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-48"
     - name: oof-050
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -958,7 +958,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-49"
     - name: oof-051
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -977,7 +977,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-50"
     - name: oof-052
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -996,7 +996,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-51"
     - name: oof-053
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1015,7 +1015,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-52"
     - name: oof-054
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1034,7 +1034,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-53"
     - name: oof-055
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1053,7 +1053,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-54"
     - name: oof-056
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1072,7 +1072,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-55"
     - name: oof-057
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1091,7 +1091,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-56"
     - name: oof-058
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1110,7 +1110,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-57"
     - name: oof-059
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1129,7 +1129,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-58"
     - name: oof-060
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1148,7 +1148,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-59"
     - name: oof-061
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1167,7 +1167,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-60"
     - name: oof-062
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1186,7 +1186,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-61"
     - name: oof-063
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1205,7 +1205,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-62"
     - name: oof-064
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1224,7 +1224,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-63"
     - name: oof-065
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1243,7 +1243,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-64"
     - name: oof-066
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1262,7 +1262,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-65"
     - name: oof-067
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1281,7 +1281,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-66"
     - name: oof-068
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1300,7 +1300,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-67"
     - name: oof-069
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1319,7 +1319,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-68"
     - name: oof-070
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1338,7 +1338,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-69"
     - name: oof-071
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1357,7 +1357,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-70"
     - name: oof-072
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1376,7 +1376,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-71"
     - name: oof-073
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1395,7 +1395,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-72"
     - name: oof-074
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1414,7 +1414,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-73"
     - name: oof-075
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1433,7 +1433,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-74"
     - name: oof-076
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1452,7 +1452,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-75"
     - name: oof-077
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1471,7 +1471,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-76"
     - name: oof-078
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1490,7 +1490,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-77"
     - name: oof-079
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1509,7 +1509,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-78"
     - name: oof-080
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1528,7 +1528,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-79"
     - name: oof-081
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1547,7 +1547,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-80"
     - name: oof-082
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1566,7 +1566,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-81"
     - name: oof-083
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1585,7 +1585,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-82"
     - name: oof-084
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1604,7 +1604,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-83"
     - name: oof-085
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1623,7 +1623,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-84"
     - name: oof-086
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1642,7 +1642,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-85"
     - name: oof-087
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1661,7 +1661,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-86"
     - name: oof-088
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1680,7 +1680,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-87"
     - name: oof-089
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1699,7 +1699,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-88"
     - name: oof-090
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1718,7 +1718,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-89"
     - name: oof-091
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1737,7 +1737,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-90"
     - name: oof-092
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1756,7 +1756,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-91"
     - name: oof-093
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1775,7 +1775,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-92"
     - name: oof-094
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1794,7 +1794,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-93"
     - name: oof-095
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1813,7 +1813,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-94"
     - name: oof-096
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1832,7 +1832,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-95"
     - name: oof-097
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1851,7 +1851,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-96"
     - name: oof-098
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1870,7 +1870,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-97"
     - name: oof-099
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1889,7 +1889,7 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-98"
     - name: oof-100
       base:
         apiVersion: nop.crossplane.io/v1alpha1
@@ -1908,4 +1908,4 @@ spec:
           transforms:
             - type: string
               string:
-                fmt: "%s-i"
+                fmt: "%s-99"
